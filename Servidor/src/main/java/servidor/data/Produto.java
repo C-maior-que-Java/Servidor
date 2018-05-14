@@ -1,6 +1,6 @@
 package servidor.data;
 
-public class Produto extends Dado{
+public class Produto {
 	private int idProduto;
 	private String nome;
 	private float preco;

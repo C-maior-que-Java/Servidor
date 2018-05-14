@@ -1,6 +1,6 @@
 package servidor.data;
 
-public class Entrega extends Dado{
+public class Entrega {
 	private int idEntrega;
 	private String endereco;
 	private Pedido pedido;

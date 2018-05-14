@@ -1,6 +1,6 @@
 package servidor.data;
 
-public class Cardapio extends Dado {
+public class Cardapio {
 	private int idCardapio;
 	private Produto[] listaProdutos;
 	
